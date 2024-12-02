@@ -1,6 +1,6 @@
-# Grupo # - << Nombre del proyecto >>
+# Grupo 5 - El Desafío de la Precisión
 
-- **Participantes**: Nombre Apellido 1, Nombre Apellido 2, etc
+- **Participantes**: Moises Fabian Perez, Jeisson Velásquez, Andres Camilo Salazar
 
-- **Breve descripcion**: Escriba aca una breve descripcion del proyecto. 
+- **Breve descripcion**: Analisis y prediccion de consumo de materias primas para empresa de fabricación de resinas.
 
