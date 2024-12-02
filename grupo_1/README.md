@@ -1,6 +1,6 @@
-# Grupo # - << Nombre del proyecto >>
+# Grupo # - << Pregúntale a la Corte Constitucional >>
 
-- **Participantes**: Nombre Apellido 1, Nombre Apellido 2, etc
+- **Participantes**: Elkin Centeno Cardona, Rafael Peña Martelo, Viviana Muñoz Olarte
 
-- **Breve descripcion**: Escriba aca una breve descripcion del proyecto. 
+- **Breve descripcion**: Herramienta de inteligencia artificial para la optimización de los recursos humanos, técnicos y económicos en la justicia constitucional colombiana.
 
