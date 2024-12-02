@@ -1,6 +1,6 @@
-# Grupo # - << Nombre del proyecto >>
+# Grupo #2 - << Transacciones fraudulentas >>
 
-- **Participantes**: Nombre Apellido 1, Nombre Apellido 2, etc
+- **Participantes**: Luissa Maria Valencia López, Cristian Hernández Vanegas, Hector Dario Betancur
 
 - **Breve descripcion**: Escriba aca una breve descripcion del proyecto. 
 
