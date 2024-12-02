@@ -1,4 +1,4 @@
-# Grupo # - << Pregúntale a la Corte Constitucional >>
+# Grupo # 1- << Pregúntale a la Corte Constitucional >>
 
 - **Participantes**: Elkin Centeno Cardona, Rafael Peña Martelo, Viviana Muñoz Olarte
 
