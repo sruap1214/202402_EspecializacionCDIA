@@ -1,4 +1,4 @@
-# Grupo # 3 - << SmartPlant Protein>>
+# Grupo # 3 -  SmartPlant Protein
 
 - **Participantes**: Angie Yuliana Rodríguez Gómez, Natalia Velez Vanegas
 
